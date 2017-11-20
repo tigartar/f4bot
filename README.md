@@ -346,3 +346,6 @@ Deployment tracking can be disabled by removing `require('cf-deployment-tracker-
 [natural-language-understanding]: https://www.ibm.com/watson/developercloud/natural-language-understanding.html
 [weatherinsights]: https://bluemix.net/catalog/weatherinsights
 [cloudantNoSQLDB]: https://console.ng.bluemix.net/docs/services/Cloudant/index.html#Cloudant
+
+
+dot
