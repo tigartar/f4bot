@@ -12,4 +12,4 @@ applications:
   name: f4bot
   command: npm start
   path: .
-  memory: 512M
+  memory: 256M
